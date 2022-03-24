@@ -13,7 +13,7 @@ Develop my knowledge in Computer Science and DevOPS.
  
 ### What am i learning?
   <div style="display: inline_block">
-      <img align="center" alt="Linux-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
+      <img align="center" alt="Linux-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
     <img align="center" alt="Ansible-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
     <img align="center" alt="terraform-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
     <img align="center" alt="MySQL-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
