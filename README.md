@@ -7,7 +7,7 @@
 Computer Science student at UTFPR.
 
 ### What am i focused?
-Develop my knowledge in Computer Science and DevOPS.
+Develop my knowledge in DevOPS stuff.
  
  ### 
  
