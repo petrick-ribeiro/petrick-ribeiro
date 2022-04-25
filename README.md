@@ -13,8 +13,8 @@ Develop my knowledge in DevOPS stuff.
  
 ### What am i learning?
   <div style="display: inline_block">
-    <img align="center" alt="Python-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img align="center" alt="Linux-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Python-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img align="center" alt="Linux-logo" height="30" width="40"
 src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
     <img align="center" alt="Ansible-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
