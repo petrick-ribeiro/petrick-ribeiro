@@ -1,10 +1,10 @@
 <div>
-<h2 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Petrick</h1>
-<img align="right" alt="Totoro-gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/fYknzgAoMUJgfo5oh2/giphy.gif">
+<h2 align="center">Hi <img width="35" src="https://github.com/petrick-ribeiro/petrick-ribeiro/blob/main/waving.gif">, I'm Petrick</h1>
+<img align="right" alt="Totoro-gif" height="180" style="border-radius:50px;" src="https://i.pinimg.com/originals/06/fd/21/06fd21739bfffcf72de91301292130ee.gif">
 </div>
 
 ### I'm focused on:
-Develop my knowledge in DevOps related topics as:
+Develop my knowledge in **DevOps** :rocket: related topics as:
 - Cloud Computing
 - Infrasctructure as Code (IaC)
 - Observability
@@ -26,11 +26,9 @@ Develop my knowledge in DevOps related topics as:
 
 #
 
-<div align=center>
+<div align=center >
   <a href="https://github.com/petrick-ribeiro/petrick-ribeiro">
-    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=petrick-ribeiro&count_private=true&show_icons=true&theme=nord" />
-  </a>
-  <a href="https://github.com/petrick/petrick-ribeiro/petrick-ribeiro">
-    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrick-ribeiro&layout=compact&theme=nord" />
-  </a>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=petrick-ribeiro&count_private=true&show_icons=true&theme=nord" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrick-ribeiro&layout=compact&theme=nord" />
+   </a>
 </div>
