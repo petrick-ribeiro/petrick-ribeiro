@@ -3,14 +3,14 @@
 <img align="right" alt="Totoro-gif" height="180" style="border-radius:50px;" src="https://github.com/petrick-ribeiro/petrick-ribeiro/blob/main/files/ghibli-gif.gif">
 </div>
 
-### I'm focused on:
+### :pencil: I'm focused on:
 Develop my knowledge in **DevOps** :rocket: related topics as:
 - Cloud Computing
 - Infrasctructure as Code (IaC)
 - Observability
 - Continuous Integration and Continuous Delivery (CI/CD)
 
-### I'm learning at the moment:
+### :hammer: I'm learning at the moment 
 <div align="left" style="display: inline_block"><br>
   <img align="center" alt="Linux-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Ansible-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
