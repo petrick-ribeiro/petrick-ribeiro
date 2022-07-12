@@ -1,5 +1,5 @@
 <div>
-<h2 align="center">Hi <img width="35" src="https://github.com/petrick-ribeiro/petrick-ribeiro/blob/main/files/waving.gif">, I'm Petrick</h1>
+<h2 align="center"><img width="35" src="https://github.com/petrick-ribeiro/petrick-ribeiro/blob/main/files/waving.gif"> Hi there!</h1>
 <img align="right" alt="Totoro-gif" height="180" style="border-radius:50px;" src="https://github.com/petrick-ribeiro/petrick-ribeiro/blob/main/files/ghibli-gif.gif">
 </div>
 
