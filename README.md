@@ -7,7 +7,7 @@
 Develop my knowledge in **DevOps** :rocket: related topics as:
 - Cloud Computing
 - Infrasctructure as Code (IaC)
-- Observability
+- Monitoring and Observability
 - Continuous Integration and Continuous Delivery (CI/CD)
 
 ### :hammer_and_wrench: I'm learning at the moment 
