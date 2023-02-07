@@ -27,7 +27,7 @@ Develop my knowledge in **DevOps** :rocket: related topics as:
 
 <div align=center >
   <a href="https://github.com/petrick-ribeiro/petrick-ribeiro">
-    <img height="140em" src="https://github-readme-stats-pwxo.vercel.app/api?username=petrick-ribeiro&count_private=true&show_icons=true&theme=nord" />
-    <img height="140em" src="https://github-readme-stats-pwxo.vercel.app/api/top-langs/?username=petrick-ribeiro&layout=compact&theme=nord" />
+    <img height="140em" src="https://github-readme-stats-mu-one-70.vercel.app/api?username=petrick-ribeiro&count_private=true&show_icons=true&theme=nord" />
+    <img height="140em" src="https://github-readme-stats-mu-one-70.vercel.app/api/top-langs/?username=petrick-ribeiro&layout=compact&theme=nord" />
    </a>
 </div>
