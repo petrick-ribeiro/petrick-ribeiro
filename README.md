@@ -4,23 +4,23 @@
 </div>
 
 ### :pencil: I'm focused on:
-Develop my knowledge in **DevOps** :rocket: related topics as:
+Develop my knowledge in **Software Engineering** and **DevOps** :rocket: related topics as:
+- Backend Development
 - Cloud Computing
+- Continuous Integration and Continuous Delivery (CI/CD)
 - Infrasctructure as Code (IaC)
 - Monitoring and Observability
-- Continuous Integration and Continuous Delivery (CI/CD)
+
 
 ### :hammer_and_wrench: I'm learning at the moment 
 <div align="left" style="display: inline_block"><br>
-  <img align="center" alt="Ansible-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
-  <img align="center" alt="Terraform-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Java-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Go-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"> 
+  <img align="center" alt="PostgreSQL-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Docker-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="K8s-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Prometheus-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
-  <img align="center" alt="Grafana-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
-  <img align="center" alt="Go-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="PostgreSQL-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-
+  <img align="center" alt="Terraform-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Ansible-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
 </div>
 
 #
