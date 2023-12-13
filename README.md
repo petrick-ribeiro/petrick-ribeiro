@@ -3,8 +3,8 @@
 <img align="right" alt="Totoro-gif" height="180" style="border-radius:50px;" src="https://github.com/petrick-ribeiro/petrick-ribeiro/blob/main/files/ghibli-gif.gif">
 </div>
 
-### :pencil: I'm focused on:
-Develop my knowledge in **Software Engineering** and **DevOps** :rocket: related topics as:
+### 📝 I'm focused on:
+Develop my knowledge in **Software Engineering** and **DevOps** 🚀 related topics as:
 - Backend Development
 - Cloud Computing
 - Continuous Integration and Continuous Delivery (CI/CD)
