@@ -5,7 +5,7 @@
 
 ### 📝 I'm focused on:
 Develop my knowledge in **Software Engineering** and **DevOps** 🚀 related topics as:
-- Backend Development
+- Software Development
 - Cloud Computing
 - Continuous Integration and Continuous Delivery (CI/CD)
 - Infrasctructure as Code (IaC)
